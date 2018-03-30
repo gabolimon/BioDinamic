@@ -1,0 +1,59 @@
+/*PIE DE PAGINA*/
+#fondo_pie_pag{
+	background: #222222;
+	height: 300px;
+}
+
+#fondo_pie_pag_2{
+	background: #353535;
+	height: 50px;
+
+}
+
+/*LOGO*/
+
+div #logo_pp{
+	float: left;
+
+}
+
+div #logo_pp p{
+	color: white;
+	font-family: Century Gothic;
+	font-size: 50px;
+	padding: 35px 0px 0px 0px;
+}
+
+div #logo_pp p1{
+	color: #ffc42e;
+	font-family: Century Gothic;
+	font-size: 30px;
+	padding: 35px 0px 0px 30px;
+
+}
+
+/*TEXTO*/
+#fondo_pie_pag h2{
+	font-family: Arial;
+	font-size: 15px;
+	color: white;
+	padding: 50px 0px 10px 0px;
+}
+
+
+#fondo_pie_pag p{
+	font-family: Arial;
+	font-size: 15px;
+	color: white;
+	padding: 10px 0px 0px 0px;
+}
+
+#fondo_pie_pag_2 p{
+	font-family: Arial;
+	font-size: 12px;
+	color: white;
+	margin: 0px 0px 0px 50.297px;
+	padding: 15px 0px 0px 250px;
+
+}
+

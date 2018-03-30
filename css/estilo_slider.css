@@ -1,0 +1,60 @@
+/*SLIDER*/
+section div #slide_s1 img{
+	height: 500px;
+}
+/*TITULOS*/
+
+#titulos {
+	font-size: 40px; 
+	padding: 50px 0px 70px 30px;
+	text-align: center;
+	font-family: Century Gothic;
+
+} 
+
+/*ICONOS*/
+
+#cont_icon{
+	padding: 00px 0px 70px 30px;
+	text-align: center;
+	font-family: Century Gothic;
+
+}
+
+#cont_icon h {
+	font-size: 25px; 
+	
+} 
+
+#icono{
+	height: 170px;
+	width: 170px;
+}
+
+/*VIDEO*/
+
+#cont_video{
+	width: 100%;
+	height: 400px;
+	background-image: url("../img/camaronera.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%; 
+	text-align: center;
+
+}
+
+
+#img_play {
+	padding: 50px 0px 0px 0px;
+	z-index: 2;
+	width: 100px;
+	height: 100px;
+}
+
+#texto{
+	color: white;
+	padding: 70px 0px 0px 0px;
+	font-family: Century Gothic;
+	z-index: 3;
+	font-size: 35px;
+}
