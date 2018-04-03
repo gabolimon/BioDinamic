@@ -6,12 +6,14 @@
 	<title>BioDinamics</title>
 	<!--CARPETA CSS-->
 	
-	<!--ESTILOS MENU CSS-->
+	<!--ESTILOS INDEX CSS-->
 	<link rel="stylesheet" type="text/css" href="css/grid_12.css">
 	<link rel="stylesheet" type="text/css" href="css/estilo_menu.css">
 	<link rel="stylesheet" type="text/css" href="css/estilo_slider.css">
 	<link rel="stylesheet" type="text/css" href="css/estilo_productos.css">
 	<link rel="stylesheet" type="text/css" href="css/estilo_pie_pag.css">
+	<!--ESTILOS PAGINA-PRODUCTOS CSS-->	
+	<link rel="stylesheet" type="text/css" href="css/estilo_pag_producto.css">
 	<!--ESTILOS SLIDER CSS-->
 	<link rel="stylesheet" href="css/lean-slider.css" type="text/css" />
   	<link rel="stylesheet" href="css/sample-styles.css" type="text/css" />

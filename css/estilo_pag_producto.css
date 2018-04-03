@@ -1,0 +1,90 @@
+/*PAGINA DE CONJUNTO DE PRODUCTOS*/
+
+/*CONTENEDOR*/
+#fondo_pag_prod{
+	
+	background-image: url("../img/fondo_producto.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 1105px;
+}
+
+#cont_pag_productos{
+	padding: 0px 0px 50px 100px;
+}
+
+/*IMAGEN PRODUCTOS*/
+#img_productos{
+	height: 250px;
+	width: 250px;
+}
+
+/*DESCRIPCION*/
+
+#cont_texto {
+	padding: 30px 0px 0px 0px;
+}
+
+#cont_texto h{
+	font-size: 24px; 
+	font-family: Century Gothic;
+	
+}
+
+#cont_texto p{
+	font-size: 12px; 
+	font-family: Century Gothic;
+	padding: 10px 0px 0px 0px;
+}
+
+/*BOTON*/
+#button_pro {
+	margin: 20px 0px 0px 0px;
+    background-color: #cf9500; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+/*PAGINA DE PRODUCTO INDIVIDUAL*/
+
+/*IMAGEN PRODUCTO*/
+#img_producto{
+	height: 500px;
+	width: 500px;
+
+}
+
+#img_producto_icon{
+	height: 100px;
+	width: 100px;
+}
+/*DESCRIPCION PRODUCTO*/
+
+#cont_descripcion {
+	padding: 50px 0px 50px 40px;
+}
+/*TITULO*/
+#cont_descripcion h{
+	font-size: 30px; 
+	font-family: Century Gothic;
+	
+}
+
+#cont_texto hr {
+  
+  background-color: black;
+}
+
+/*DESCRIPCION*/
+
+#cont_descripcion P{
+	font-size: 12px; 
+	font-family: Century Gothic;
+	padding: 30px 0px 0px 0px;
+}
