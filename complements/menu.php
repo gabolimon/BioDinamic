@@ -8,7 +8,7 @@
 	<div id="menu">
 		<ul>
 			<a href="index.php">NOSOTROS</a>
-			<a href="index.php">PRODUCTOS</a>
+			<a href="productos.php">PRODUCTOS</a>
 			<a href="index.php">SOPORTE</a>
 			<a href="index.php">CONTACTOS</a>
 		</ul>

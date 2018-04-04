@@ -16,20 +16,16 @@
 	<div class="container-12" id="cont_pag_productos">
 		<!--IMAGEN PRODUCTO-->
 		<div class="grid-3">
-			<img id="img_productos" src="img/sensor.jpg"><br>
+			<img id="img_productos" src="img/sensor_1.jpg"><br>
 		</div>
 		<!--DESCRIPCION PRODUCTO -->
-		<div class="grid-5" id="cont_texto">
+		<div class="grid-6" id="cont_texto">
 			<h>AQUAFEED</h><br><br>
 			<hr>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+			<p>Granjas Camaroneras.<br><br>
+			Este dispositivo monitorea los parámetros del agua y la actividad alimenticia del camaron, con estos datos genera automáticamente cuadros estadísticos para su respectivo análisis.
 			</p>
-			<button type="button" id="button_pro">LEER MAS</button> 
+			<button type="button" onclick="location.href='producto_aquafeed.php'" id="button_pro">LEER MAS</button> 
 		</div>
 		<div class="clear"></div>
 
@@ -38,20 +34,16 @@
 	
 		<!--IMAGEN PRODUCTO-->
 		<div class="grid-3">
-			<img id="img_productos" src="img/sensor.jpg"><br>
+			<img id="img_productos" src="img/sensor_2.jpg"><br>
 		</div>
 		<!--DESCRIPCION PRODUCTO -->
-		<div class="grid-5" id="cont_texto">
-			<h>AQUAFEED</h><br><br>
+		<div class="grid-6" id="cont_texto">
+			<h>DETECT SHRIMP</h><br><br>
 			<hr>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+			<p>Granjas Camaroneras.<br><br>
+			Este dispositivo detecta el color del camarón pre cocinado con una cámara de alto nivel profesional. Usa algoritmos de detección para asociar la imagen de camarón a un rango de color y tamaño.
 			</p>
-			<button type="button" id="button_pro">LEER MAS</button> 
+			<button type="button" onclick="location.href='producto_detect.php'" id="button_pro">LEER MAS</button> 
 		</div>
 		<div class="clear"></div>
 
@@ -61,20 +53,15 @@
 	
 		<!--IMAGEN PRODUCTO-->
 		<div class="grid-3">
-			<img id="img_productos" src="img/sensor.jpg"><br>
+			<img id="img_productos" src="img/sensor_3.jpg"><br>
 		</div>
 		<!--DESCRIPCION PRODUCTO -->
-		<div class="grid-5" id="cont_texto">
-			<h>AQUAFEED</h><br><br>
+		<div class="grid-6" id="cont_texto">
+			<h>SHEDDING SHRIMP</h><br><br>
 			<hr>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-			</p>
-			<button type="button" id="button_pro">LEER MAS</button> 
+			<p> Granjas Camaroneras.<br><br>
+			Este dispositivo permite visualizar y verificar el estado de muda del camarón. El Sistema cuenta con varias luces que permite la captura de imágenes del camarón.</p>
+			<button type="button" onclick="location.href='producto_shedding.php'" id="button_pro">LEER MAS</button> 
 		</div>
 		<div class="clear"></div>
 	</div>

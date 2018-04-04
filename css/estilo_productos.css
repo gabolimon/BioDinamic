@@ -2,10 +2,10 @@
 /*ESTILOS DE PAGINA PRINCIPAL*/
 /*PRODUCTOS*/
 #fondo_product{
-	height: 700px;
+	height: 850px;
 	background-image: url("../img/fondo_producto.jpg");
 	background-repeat: no-repeat;
-	background-size: 100% 700px;
+	background-size: 100% 850px;
 }
 
 #cont_product{
@@ -13,10 +13,13 @@
 }
 
 #productos{
+	height: 450px;
+	width: 270px;
 	background: white;
 	padding: 50px 0px 70px 0px;
 	text-align: center;
 	font-family: Century Gothic;
+	
 
 }
 
@@ -25,6 +28,18 @@
 	font-size: 25px; 
 	
 } 
+
+#productos p {
+	font-size: 15px; 
+	
+} 
+
+#texto_producto{
+	padding: 0px 0px 0px 15px;
+	height: 170px;
+	width: 240px;
+	
+}
 
 #img_product{
 	padding: 0px 0px 20px 0px;
@@ -35,7 +50,7 @@
 /*BOTON*/
 
 #button {
-	margin: 30px 0px 0px 0px;
+	margin: 10px 0px 0px 0px;
     background-color: #cf9500; /* Green */
     border: none;
     color: white;

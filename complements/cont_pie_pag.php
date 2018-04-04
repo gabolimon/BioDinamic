@@ -18,9 +18,9 @@
 		<!--PRODUCTOS-->
 		<div class="grid-3">
 			<h2>PRODUCTOS</h2>
-			<P>>  Producto Número 1</P>
-			<P>>  Producto Número 2</P>
-			<P>>  Producto Número 3</P>
+			<a id="link" href="producto_aquafeed.php">• Aqua Feed</a><br>
+			<a id="link" href="producto_aquafeed.php">• Detect Shrimp</a><br>
+			<a id="link" href="producto_aquafeed.php">• Shedding Shrimp</a><br>
 		</div>
 		<div class="clear"></div>
 	</div>

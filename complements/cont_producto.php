@@ -8,23 +8,33 @@
 		<!--PRODUCTO NUMERO 1 -->
 		<div class="grid-3" id=productos>
 			<img id="img_product" src="img/iconos/001.png"><br>
-			<h>PRODUCTO 1</h><br><br>
-			<p>Descripcion del producto</p>
-			<button type="button" id="button">LEER MAS</button> 
+			<h>AQUA FEED</h><br><br>
+			<div id="texto_producto">
+			<p>Granjas Camaroneras.<br><br>
+			Este dispositivo monitorea los parámetros del agua y la actividad alimenticia del camaron.
+			</p>
+			</div>
+			<button type="button" onclick="location.href='producto_aquafeed.php'" id="button">LEER MAS</button> 
 		</div>
 		<!--PRODUCTO NUMERO 2 -->
 		<div class="grid-3" id=productos>
 			<img id="img_product" src="img/iconos/001.png"><br>
-			<h>PRODUCTO 2</h><br><br>
-			<p>Descripcion del producto</p>
-			<button type="button" id="button">LEER MAS</button> 
+			<h>DETECT SHRIMP</h><br><br>
+			<div id="texto_producto">
+			<p>Granjas Camaroneras.<br><br>
+			Este dispositivo detecta el color del camarón pre cocinado y asocia la imagen de camarón a un rango de color y tamaño.</p>
+			</div>
+			<button type="button" onclick="location.href='producto_detect.php'" id="button">LEER MAS</button> 
 		</div>
 		<!--PRODUCTO NUMERO 3 -->
 		<div class="grid-3" id=productos>
 			<img id="img_product" src="img/iconos/001.png"><br>
-			<h>PRODUCTO 3</h><br><br>
-			<p>Descripcion del producto</p>
-			<button type="button" id="button">LEER MAS</button> 
+			<h>SHEDDING SHRIMP</h><br><br>
+			<div id="texto_producto">
+			<p> Granjas Camaroneras.<br><br>
+			Visualiza y verifica el estado de muda del camarón. El Sistema cuenta con varias luces que permite la captura de imágenes del camarón.</p>
+			</div>
+			<button type="button" onclick="location.href='producto_shedding.php'" id="button">LEER MAS</button> 
 		</div>
 	</div>
 </div>
