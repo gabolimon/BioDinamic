@@ -19,9 +19,11 @@
 	padding: 50px 0px 70px 0px;
 	text-align: center;
 	font-family: Century Gothic;
-	
-
+	box-shadow: 0em 0em 1em black;
 }
+
+
+
 
 #productos h {
 	text-align: center;
@@ -59,4 +61,17 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    box-shadow: 2px 2px #999;
+}
+
+#button_pro:hover, #button:hover{
+	 background-color: #464646;
+	 cursor:pointer;
+}
+
+#button_pro:hover, #button:active {
+  background-color: #464646;
+  box-shadow: 2px 2px #666;
+  transform: translateY(4px);
+
 }

@@ -14,6 +14,11 @@
 			<P>09-5784-9865</P>
 			<P>info@biodinamics.com</P>
 			<h2>REDES SOCIALES</h2>
+			<!--IMAGENES REDES SOCIALES-->
+			<img id="img_redsocial" src="img/iconos/facebook.png">
+			<img id="img_redsocial" src="img/iconos/twitter.png">
+			<img id="img_redsocial" src="img/iconos/linkedin.png">
+			<img id="img_redsocial" src="img/iconos/youtube.png">
 		</div>
 		<!--PRODUCTOS-->
 		<div class="grid-3">
