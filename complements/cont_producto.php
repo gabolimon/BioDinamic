@@ -7,7 +7,7 @@
 	<div class="container-12" id="cont_product">
 		<!--PRODUCTO NUMERO 1 -->
 		<div class="grid-3" id=productos>
-			<img id="img_product" src="img/iconos/001.png"><br>
+			<img id="img_product" src="img/3d/img001.png"><br>
 			<h>AQUA FEED</h><br><br>
 			<div id="texto_producto">
 			<p>Granjas Camaroneras.<br><br>
@@ -18,7 +18,7 @@
 		</div>
 		<!--PRODUCTO NUMERO 2 -->
 		<div class="grid-3" id=productos>
-			<img id="img_product" src="img/iconos/001.png"><br>
+			<img id="img_product" src="img/3d/img002.jpg"><br>
 			<h>DETECT SHRIMP</h><br><br>
 			<div id="texto_producto">
 			<p>Granjas Camaroneras.<br><br>
@@ -28,7 +28,7 @@
 		</div>
 		<!--PRODUCTO NUMERO 3 -->
 		<div class="grid-3" id=productos>
-			<img id="img_product" src="img/iconos/001.png"><br>
+			<img id="img_product" src="img/3d/img003.jpg"><br>
 			<h>SHEDDING SHRIMP</h><br><br>
 			<div id="texto_producto">
 			<p> Granjas Camaroneras.<br><br>

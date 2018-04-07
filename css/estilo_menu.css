@@ -21,7 +21,8 @@ header {
 
 header #logo{
 	float: left;
-
+	position: relative; 
+    background: #fff url(../img/logo2.jpg) no-repeat 50% 50%
 }
 header #logo p{
 	color: white;
@@ -41,7 +42,7 @@ header #logo p1{
 /*MENU*/
 header #menu{
 	float: right;
-	padding: 10px 0px 0px 0px;
+	padding: 75px 0px 0px 0px;
 
 }
 
@@ -51,34 +52,10 @@ header #menu a{
 	font-size: 12px;
 	text-decoration: none;
 	padding: 0px 20px 0px 0px;
-	margin: 10px 0px 5px 0px;
 }
 
 header #menu a:hover{
 	color: #ffc42e
-}
-
-header #menu table{
-	float: right;
-	padding: 0px 0px 10px 0px
-}
-
-header #menu td{
-	color: white;
-	font-family: Century Gothic;
-	font-size: 12px;
-	padding: 3px 3px;
-}
-
-#iniciar{
-	
-    background-color: #cf9500; /* Green */
-    border: none;
-    color: white;
-    border-radius: 6px;
-    
-    width: 100px;
-    font-size: 12px;
 }
 
 /*MENU PEGAJOSO*/
