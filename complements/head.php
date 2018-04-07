@@ -11,6 +11,7 @@
 	<link rel="stylesheet" type="text/css" href="css/estilo_menu.css">
 	<link rel="stylesheet" type="text/css" href="css/estilo_slider.css">
 	<link rel="stylesheet" type="text/css" href="css/estilo_productos.css">
+	<link rel="stylesheet" type="text/css" href="css/estilo_soporte.css">
 	<link rel="stylesheet" type="text/css" href="css/estilo_pie_pag.css">
 	<!--ESTILOS PAGINA-PRODUCTOS CSS-->	
 	<link rel="stylesheet" type="text/css" href="css/estilo_pag_producto.css">

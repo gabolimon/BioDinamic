@@ -1,0 +1,41 @@
+#titulos1{
+	height: 550px;
+
+	background-image: url("../img/service.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 500px;
+}
+
+#textoImagen{
+	color: white;
+	padding: 150px 0px 80px 0px;
+	text-align: left;
+	margin: 10px 0px 0px 80px;
+	position: absolute;
+	font-size: 45px;
+	font-family: Verdana;
+}
+
+#formRecla{
+	height: 550px;
+	text-align: center;
+	font-family: Century Gothic;
+}
+
+#input_form{
+	height: 20px;
+	width: 250px;
+	padding: 5px 8px;
+	margin: 6px 6px;
+	border-radius: 6px;
+	border-style: solid;
+
+}
+
+#input_text{
+	padding: 8px;
+	width: 535px;
+	margin: 6px;
+	border-radius: 6px;
+	border-style: solid;
+}
