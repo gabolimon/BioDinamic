@@ -4,7 +4,7 @@
 </div>
 <!--ICONO NUMERO 1 -->
 <div class="grid-2" id=cont_icon>
-	<img id="icono" src="img/iconos/001.png"><br>
+	<img id="icono"  src="img/iconos/001.png"><br>
 	<h>Asistencia</h><br><br>
 	<p>Brindamos asistencia tecnica y asistencia de ventas prensencial y remota</p>
 </div>

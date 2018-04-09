@@ -12,6 +12,7 @@
 	<link rel="stylesheet" href="css/estilo_menu.css"/>
 	<link rel="stylesheet" href="css/estilo_slider.css"/>
 	<link rel="stylesheet" href="css/estilo_productos.css"/>
+	<link rel="stylesheet" href="css/estilo_soporte.css"/>
 	<link rel="stylesheet" href="css/estilo_pie_pag.css"/>
 	<!--ESTILOS PAGINA-PRODUCTOS CSS-->	
 
@@ -44,7 +45,4 @@
 	<!--SLIDER-SCRIPT -->
 	<script src="js/slider/jquery.min.js"></script>
 	<script src="js/slider/lean-slider.js"></script>
-	<script src="js/slider/modernizr-2.6.1.min.js""></script>
-	
-	
-	
+<script src="js/slider/modernizr-2.6.1.min.js""></script>

@@ -1,6 +1,7 @@
 <div  class="centrado">
 	<!--LOGOTIPO-->
 	<div id=logo>
+		
 		<p>Bio</p>
 		<p1>Dinamics</p1>
 	</div>

@@ -3,10 +3,11 @@
 /*CONTENEDOR*/
 #fondo_pag_prod{
 	
-	background-image: url("../img/fondo_producto.jpg");
+	background-image: url("../img/fondo_producto2.jpg");
 	background-repeat: no-repeat;
 	background-size: 100% 1205px;
 }
+
 
 #cont_pag_productos{
 	padding: 0px 0px 50px 100px;

@@ -7,7 +7,7 @@
 		<?php include('complements/menu.php') ?>
 	</header>
 <!--INICIO BODY -->
-<div id="fondo_pag_prod" class="contenido">
+<div id="fondo_pag_prod" class="contenido paralax">
 	<!--TITULO -->
 		<div id="titulos">
 			<p>PRODUCTOS</p>
@@ -15,23 +15,27 @@
 	<!--PRODUCTO 1-->
 	<div class="container-12" id="cont_pag_productos">
 		<!--IMAGEN PRODUCTO-->
-		<div class="grid-3">
-			<img id="img_productos" src="img/productos/img001.png"><br>
+		<div id="fondo_white">
+
+			<div class="grid-3">
+				<img id="img_productos" src="img/productos/img001.png"><br>
+			</div>
+			<!--DESCRIPCION PRODUCTO -->
+			<div class="grid-6" id="cont_texto">
+				<h>AQUAFEED</h><br><br>
+				<hr>
+				<p>Granjas Camaroneras.<br><br>
+				Este dispositivo monitorea los parámetros del agua y la actividad alimenticia del camaron, con estos datos genera automáticamente cuadros estadísticos para su respectivo análisis.
+				</p>
+				<button type="button" onclick="location.href='producto_aquafeed.php'" id="button_pro">LEER MAS</button> 
+			</div>
 		</div>
-		<!--DESCRIPCION PRODUCTO -->
-		<div class="grid-6" id="cont_texto">
-			<h>AQUAFEED</h><br><br>
-			<hr>
-			<p>Granjas Camaroneras.<br><br>
-			Este dispositivo monitorea los parámetros del agua y la actividad alimenticia del camaron, con estos datos genera automáticamente cuadros estadísticos para su respectivo análisis.
-			</p>
-			<button type="button" onclick="location.href='producto_aquafeed.php'" id="button_pro">LEER MAS</button> 
-		</div>
+
 		<div class="clear"></div>
 
 		<br><br><br>
 		<!--PRODUCTO 2-->
-	
+		<div id="fondo_white">
 		<!--IMAGEN PRODUCTO-->
 		<div class="grid-3">
 			<img id="img_productos" src="img/productos/img002.jpg"><br>
@@ -45,12 +49,13 @@
 			</p>
 			<button type="button" onclick="location.href='producto_detect.php'" id="button_pro">LEER MAS</button> 
 		</div>
+		</div>
 		<div class="clear"></div>
 
 
 		<br><br><br>
 		<!--PRODUCTO 3-->
-	
+	<div id="fondo_white">
 		<!--IMAGEN PRODUCTO-->
 		<div class="grid-3">
 			<img id="img_productos" src="img/productos/img003.jpg"><br>
@@ -62,6 +67,7 @@
 			<p> Granjas Camaroneras.<br><br>
 			Este dispositivo permite visualizar y verificar el estado de muda del camarón. El Sistema cuenta con varias luces que permite la captura de imágenes del camarón.</p>
 			<button type="button" onclick="location.href='producto_shedding.php'" id="button_pro">LEER MAS</button> 
+		</div>
 		</div>
 		<div class="clear"></div>
 	</div>

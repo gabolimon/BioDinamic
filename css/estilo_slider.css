@@ -5,8 +5,8 @@ section div #slide_s1 img{
 /*TITULOS*/
 
 #titulos {
-	font-size: 40px; 
-	padding: 50px 0px 70px 30px;
+	font-size: 35px; 
+	padding: 50px 0px 50px 30px;
 	text-align: center;
 	font-family: Century Gothic;
 
@@ -15,20 +15,26 @@ section div #slide_s1 img{
 /*ICONOS*/
 
 #cont_icon{
-	padding: 00px 0px 70px 30px;
+	padding: 0px 0px 70px 30px;
 	text-align: center;
 	font-family: Century Gothic;
 
 }
 
 #cont_icon h {
-	font-size: 25px; 
+	font-size: 20px; 
+	
+} 
+
+#cont_icon p {
+	font-size: 14px;
+	color: #8f8f8f; 
 	
 } 
 
 #icono{
-	height: 170px;
-	width: 170px;
+	height: 100px;
+	width: 100px;
 }
 
 /*VIDEO*/
@@ -56,4 +62,8 @@ section div #slide_s1 img{
 	font-family: Century Gothic;
 	z-index: 3;
 	font-size: 35px;
+}
+.paralax{
+	background: #fff fixed no-repeat 50% 50%;
+	background-size: cover;
 }

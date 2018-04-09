@@ -32,8 +32,10 @@ header {
 header #logo{
 	float: left;
 	position: relative; 
-    background: #fff url(../img/logo2.jpg) no-repeat 50% 50%
+    
 }
+
+
 header #logo p{
 	color: white;
 	font-family: Century Gothic;
