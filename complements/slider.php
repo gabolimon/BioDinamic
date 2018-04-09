@@ -3,9 +3,16 @@
         <div id="slider">
         	<!--SLIDER 1-->
             <div id="slide_s1">
-                <img src="img/camaron.jpg" alt="" />
+                <img src="img/img9.jpg" alt="" />
             </div>
             <!--SLIDER 2-->
+            <div id="slide_s1">
+                <img src="img/img81.jpg" alt="" />
+            </div>
+            <!--SLIDER 2-->
+            <div id="slide_s1">
+                <img src="img/img4.jpg" alt="" />
+            </div>
             
         </div>
 

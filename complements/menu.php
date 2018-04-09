@@ -6,6 +6,7 @@
 	</div>
 	<!--MENU-->
 	<div id="menu">
+
 			<ul>
 				<a href="index.php">NOSOTROS</a>
 				<a href="productos.php">PRODUCTOS</a>
@@ -20,9 +21,8 @@
 			</div>	
 	</div>	
 		
-	
+</div>		
 
 	
 		
 	
-</div>
