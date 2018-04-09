@@ -1,3 +1,11 @@
+.contenido {
+  padding-top: 100px;
+}
+
+
+
+
+
 /*DEFAULTI*/
 *{margin: 0; padding: 0;}
 
@@ -8,6 +16,8 @@ header {
 	overflow: hidden;
 	background: #222222;
 	margin-bottom: 0px;
+	position: fixed;
+	z-index: 10;
 }
 
 .centrado{
@@ -41,7 +51,7 @@ header #logo p1{
 /*MENU*/
 header #menu{
 	float: right;
-	padding: 75px 0px 0px 0px;
+	padding: 50px 0px 0px 0px;
 
 }
 
@@ -50,13 +60,24 @@ header #menu a{
 	font-family: Century Gothic;
 	font-size: 12px;
 	text-decoration: none;
-	padding: 0px 20px 0px 0px;
+	padding: 0px 0px 0px 20px;
 }
 
 header #menu a:hover{
 	color: #ffc42e
 }
 
+
+.menu_social{
+	float: right;
+}
+
+#img_red_social{
+	width: 15px;
+	height: 15px;
+	cursor: pointer;
+	padding: 10px 0px 0px 15px;
+}
 /*MENU PEGAJOSO*/
 
 .header_2{

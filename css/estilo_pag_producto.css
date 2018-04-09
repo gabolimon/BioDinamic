@@ -5,7 +5,7 @@
 	
 	background-image: url("../img/fondo_producto.jpg");
 	background-repeat: no-repeat;
-	background-size: 100% 1105px;
+	background-size: 100% 1205px;
 }
 
 #cont_pag_productos{
@@ -58,6 +58,7 @@
 #img_producto{
 	height: 500px;
 	width: 500px;
+	padding: 20px 0px 0px 0px;
 
 }
 

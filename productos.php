@@ -7,7 +7,7 @@
 		<?php include('complements/menu.php') ?>
 	</header>
 <!--INICIO BODY -->
-<div id="fondo_pag_prod">
+<div id="fondo_pag_prod" class="contenido">
 	<!--TITULO -->
 		<div id="titulos">
 			<p>PRODUCTOS</p>
@@ -16,7 +16,7 @@
 	<div class="container-12" id="cont_pag_productos">
 		<!--IMAGEN PRODUCTO-->
 		<div class="grid-3">
-			<img id="img_productos" src="img/sensor_1.jpg"><br>
+			<img id="img_productos" src="img/productos/img001.png"><br>
 		</div>
 		<!--DESCRIPCION PRODUCTO -->
 		<div class="grid-6" id="cont_texto">
@@ -34,7 +34,7 @@
 	
 		<!--IMAGEN PRODUCTO-->
 		<div class="grid-3">
-			<img id="img_productos" src="img/sensor_2.jpg"><br>
+			<img id="img_productos" src="img/productos/img002.jpg"><br>
 		</div>
 		<!--DESCRIPCION PRODUCTO -->
 		<div class="grid-6" id="cont_texto">
@@ -53,7 +53,7 @@
 	
 		<!--IMAGEN PRODUCTO-->
 		<div class="grid-3">
-			<img id="img_productos" src="img/sensor_3.jpg"><br>
+			<img id="img_productos" src="img/productos/img003.jpg"><br>
 		</div>
 		<!--DESCRIPCION PRODUCTO -->
 		<div class="grid-6" id="cont_texto">

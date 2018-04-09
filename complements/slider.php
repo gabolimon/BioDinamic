@@ -1,4 +1,4 @@
-<section id="galeria_slider">
+<section id="galeria_slider" class="contenido">
 	<div class="slider-wrapper">
         <div id="slider">
         	<!--SLIDER 1-->

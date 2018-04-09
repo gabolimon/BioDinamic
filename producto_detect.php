@@ -7,10 +7,11 @@
 		<?php include('complements/menu.php') ?>
 	</header>
 <!--INICIO BODY -->
+<div class="contenido">
 	<div class="container-12" id="cont_pag_producto">
 		<!--IMAGEN PRODUCTO-->
 		<div class="grid-5">
-			<img id="img_producto" src="img/sensor_1.jpg"><br>
+			<img id="img_producto" src="img/productos/img002.jpg"><br>
 			<img class="img_producto_icon" id="icon_1" onclick="myFunction('icon_1')" src="img/sensor_1.jpg">
 			<img class="img_producto_icon" id="icon_2" onclick="myFunction('icon_2')" src="img/sensor_2.jpg">
 			<img class="img_producto_icon" id="icon_3" onclick="myFunction('icon_3')" src="img/sensor_3.jpg">
@@ -37,7 +38,7 @@
 		</div>
 		<div class="clear"></div>
 	</div>
-
+</div>
 	<!--PIE DE PAGINA -->
 	<?php include('complements/cont_pie_pag.php') ?>
 	
