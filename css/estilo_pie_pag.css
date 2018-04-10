@@ -18,6 +18,14 @@
 	cursor: pointer;
 }
 
+#img_emp{
+	width: 80px;
+	height: 80px;
+	padding: 0px 0px 0px 6px;
+	cursor: pointer;
+}
+
+
 /*LOGO*/
 
 div #logo_pp{
@@ -48,12 +56,19 @@ div #logo_pp p1{
 	padding: 50px 0px 10px 0px;
 }
 
-
-#fondo_pie_pag p{
+#fondo_pie_pag h3{
 	font-family: Arial;
-	font-size: 11px;
+	font-size: 12px;
 	color: white;
-	padding: 10px 0px 0px 0px;
+	padding: 20px 0px 10px 0px;
+}
+
+#fondo_pie_pag label{
+	font-size: 10px;
+	font-family: Arial;
+	padding: 0px 20px 0px 10px;
+	color: white;
+
 }
 
 
@@ -62,6 +77,7 @@ a{
 	color: white;
 	font-family: Arial;
 	text-decoration: none;
+	padding: 0px 0px 0px 10px;
 }
 
 

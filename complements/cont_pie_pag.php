@@ -9,11 +9,12 @@
 			</div>
 		</div>
 		<!--CONTACTOS Y REDES SOCIALES-->
-		<div class="grid-3">
+		<div class="grid-2">
 			<h2>CONTÁCTOS</h2>
-			<P>09-5784-9865</P>
-			<P>info@biodinamics.com</P>
-			<h2>REDES SOCIALES</h2>
+			<img id="img_menu" src="img/iconos/llamar.png"><label>+593 7 2983581</label><br>
+			<img id="img_menu" src="img/iconos/correo.png"><label>info@biodinamics.com</label><br>
+			<img id="img_menu" src="img/iconos/map.png"><label>ESPOL Prosperina Via Perimetral, Guayaquil</label>
+			<h3>REDES SOCIALES</h3>
 			<!--IMAGENES REDES SOCIALES-->
 			<img id="img_redsocial" src="img/iconos/facebook.png">
 			<img id="img_redsocial" src="img/iconos/twitter.png">
@@ -21,11 +22,20 @@
 			<img id="img_redsocial" src="img/iconos/youtube.png">
 		</div>
 		<!--PRODUCTOS-->
-		<div class="grid-3">
+		<div class="grid-2">
 			<h2>PRODUCTOS</h2>
-			<a id="link" href="producto_aquafeed.php">• Aqua Feed</a><br>
-			<a id="link" href="producto_aquafeed.php">• Detect Shrimp</a><br>
-			<a id="link" href="producto_aquafeed.php">• Shedding Shrimp</a><br>
+			<img id="img_menu" src="img/iconos/link.png"><a id="link" href="producto_aquafeed.php">Aqua Feed</a><br>
+			<img id="img_menu" src="img/iconos/link.png"><a id="link" href="producto_aquafeed.php">Detect Shrimp</a><br>
+			<img id="img_menu" src="img/iconos/link.png"><a id="link" href="producto_aquafeed.php">Shedding Shrimp</a>
+		</div>
+		
+		<!--EMPRESAS-->
+		<div class="grid-2">
+			<h2>EMPRESAS</h2>
+			<img id="img_emp" src="img/empresas/empresa1.1.png">
+			<img id="img_emp" src="img/empresas/empresa2.png">
+			<img id="img_emp" src="img/empresas/empresa3.png">
+			<img id="img_emp" src="img/empresas/empresa4.png">
 		</div>
 		<div class="clear"></div>
 	</div>

@@ -7,7 +7,7 @@
 		<?php include('complements/menu.php') ?>
 	</header>
 <!--INICIO BODY -->
-<div class="contenido">
+<div id="fondo_pag_prod" class="contenido" >
 	<div class="container-12" id="cont_pag_producto">
 		<!--IMAGEN PRODUCTO-->
 		<div class="grid-5">

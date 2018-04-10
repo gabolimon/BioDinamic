@@ -21,6 +21,8 @@
 	<?php include('complements/cont_video.php') ?>
 	<!--BODY PRODUCTOS -->
 	<?php include('complements/cont_producto.php') ?>
+	<!--BODY EMPRESAS -->
+	<?php include('complements/cont_empresas.php') ?>
 	<!--BODY GOOGLE MAP -->
 	<?php include('complements/cont_map.php') ?>
 	<!--PIE DE PAGINA -->

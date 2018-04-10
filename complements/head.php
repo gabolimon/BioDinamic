@@ -12,10 +12,10 @@
 	<link rel="stylesheet" href="css/estilo_menu.css"/>
 	<link rel="stylesheet" href="css/estilo_slider.css"/>
 	<link rel="stylesheet" href="css/estilo_productos.css"/>
-	<link rel="stylesheet" href="css/estilo_soporte.css"/>
 	<link rel="stylesheet" href="css/estilo_pie_pag.css"/>
+	<link rel="stylesheet" href="css/estilo_empresas.css"/>
 	<!--ESTILOS PAGINA-PRODUCTOS CSS-->	
-
+	<link rel="stylesheet" href="css/estilo_soporte.css"/>
 	<link rel="stylesheet" href="css/estilo_pag_producto.css"/>
 	
 

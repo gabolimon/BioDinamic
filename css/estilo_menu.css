@@ -1,10 +1,6 @@
 .contenido {
-  padding-top: 100px;
+  padding-top: 130px;
 }
-
-
-
-
 
 /*DEFAULTI*/
 *{margin: 0; padding: 0;}
@@ -12,7 +8,7 @@
 /*HEADER*/
 header {
 	width: 100%;
-	height: 130px;
+	height: 150PX;
 	overflow: hidden;
 	background: #222222;
 	margin-bottom: 0px;
@@ -32,15 +28,13 @@ header {
 header #logo{
 	float: left;
 	position: relative; 
-    
+
 }
-
-
 header #logo p{
 	color: white;
 	font-family: Century Gothic;
 	font-size: 50px;
-	padding: 0px 0px 0px 0px;
+	padding: 10px 0px 0px 0px;
 }
 
 header #logo p1{
@@ -52,58 +46,54 @@ header #logo p1{
 }
 
 /*MENU*/
+
+
 header #menu{
 	float: right;
-	padding: 10px 0px 0px 0px;
+	padding: 50px 0px 0px 0px;
 
 }
 
 header #menu a{
-	float: right;
 	color: white;
 	font-family: Century Gothic;
 	font-size: 12px;
 	text-decoration: none;
-	padding: 0px 0px 0px 20px;
-	
+	padding: 0px 20px 0px 0px;
 }
 
 header #menu a:hover{
 	color: #ffc42e
 }
 
-header #menu table{
-	float: right;
-	padding: 0px 0px 10px 0px
+
+header .menu_social{
+	width: 100%;
+	background: #676666;
+	height: 22px;
+
 }
 
-header #menu td{
+header .menu_social label{
+	font-size: 10px;
+	font-family: Arial;
+	padding: 0px 20px 0px 10px;
 	color: white;
-	font-family: Century Gothic;
-	font-size: 12px;
-	padding: 3px 3px;
-}
 
-#iniciar{
-	
-    background-color: #cf9500; /* Green */
-    border: none;
-    color: white;
-    border-radius: 6px;
-    
-    width: 100px;
-    font-size: 12px;
 }
-
-.menu_social{
-	float: right;
-}
-
 #img_red_social{
+	float: right;
 	width: 15px;
 	height: 15px;
 	cursor: pointer;
-	padding: 10px 0px 0px 15px;
+	padding: 4px 0px 0px 5px;
+}
+
+#img_menu{
+	width: 10px;
+	height: 10px;
+	cursor: pointer;
+	
 }
 /*MENU PEGAJOSO*/
 
@@ -114,6 +104,32 @@ header #menu td{
 
 .header_2 #logo{
 	font-size: 30px;
+}
+
+/*BOTON ACCEDER*/
+#button_menu {
+	margin: 10px 0px 0px 0px;
+    background-color: #cf9500; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 10px;
+
+}
+
+#button_menu:hover, #button:hover{
+	 background-color: #464646;
+	 cursor:pointer;
+}
+
+#button_menu:hover, #button:active {
+  background-color: #464646;
+ 
+
 }
 
 /*MENU ADAPTATIVO*/
@@ -136,5 +152,3 @@ header #menu td{
 	}
  
 }
-
-

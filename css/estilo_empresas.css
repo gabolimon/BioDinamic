@@ -1,0 +1,50 @@
+.fondo_empresa{
+	background: #EEE0BD;
+}
+
+#institucion{
+	width: 305px;
+	height: 150px;
+
+	
+}
+
+#config_empresa{
+	width: 150px;
+	height: 150px;
+	display:block;
+	margin:auto;
+	opacity: 0.5;
+}
+
+.opaco0:hover{
+	cursor:pointer;
+}
+.opaco1:hover{
+	background: #d8d7d4;
+	background-image: url("../img/empresas/empresa1.png");
+	background-size: 150px 150px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.opaco2:hover{
+	background: #f4e448;
+	background-image: url("../img/empresas/empresa2.png");
+	background-size: 150px 150px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.opaco3:hover{
+	background: #d8d7d4;
+	background-image: url("../img/empresas/empresa3.png");
+	background-size: 150px 150px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.opaco4:hover{
+	background: #f4e448;
+	background-image: url("../img/empresas/empresa4.png");
+	background-size: 150px 150px;
+	background-repeat: no-repeat;
+	background-position: center;
+}

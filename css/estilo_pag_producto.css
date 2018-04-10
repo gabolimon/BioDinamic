@@ -3,9 +3,14 @@
 /*CONTENEDOR*/
 #fondo_pag_prod{
 	
-	background-image: url("../img/fondo_producto2.jpg");
-	background-repeat: no-repeat;
-	background-size: 100% 1205px;
+background: rgba(255,255,255,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 54%, rgba(255,224,140,1) 98%, rgba(248,182,0,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(255,255,255,1)), color-stop(54%, rgba(255,255,255,1)), color-stop(98%, rgba(255,224,140,1)), color-stop(100%, rgba(248,182,0,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 54%, rgba(255,224,140,1) 98%, rgba(248,182,0,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 54%, rgba(255,224,140,1) 98%, rgba(248,182,0,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 54%, rgba(255,224,140,1) 98%, rgba(248,182,0,1) 100%);
+background: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 54%, rgba(255,224,140,1) 98%, rgba(248,182,0,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f8b600', GradientType=1 );
 }
 
 
