@@ -10,7 +10,8 @@
 <div id="formulario_reclamo" >
 	<!--TITULO -->
 		<div id="titulos1" class="container-12">
-			<i><h1 id="textoImagen">SOPORTE</h1></i>
+			
+			<i class="container-12"><h1 id="textoImagen">SOPORTE</h1></i>
 		</div>
 
 

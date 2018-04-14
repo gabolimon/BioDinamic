@@ -1,9 +1,10 @@
 #titulos1{
 	height: 550px;
-
+	width: 100%;
 	background-image: url("../img/service.jpg");
 	background-repeat: no-repeat;
 	background-size: 100% 500px;
+
 }
 
 #textoImagen{
@@ -29,7 +30,6 @@
 	margin: 6px 6px;
 	border-radius: 6px;
 	border-style: solid;
-
 }
 
 #input_text{

@@ -24,7 +24,8 @@
 				<a href="productos.php">PRODUCTOS</a>
 				<a href="Soporte.php">SOPORTE</a>
 				<a href="comentario.php">CONTACTOS</a>
-				<button type="button" id="button_menu">Acceder</button>
+				<a href="Loggin.php" id="button_menu">Acceder</a>
+				
 			</ul>
 			
 	</div>	

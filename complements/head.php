@@ -17,7 +17,7 @@
 	<!--ESTILOS PAGINA-PRODUCTOS CSS-->	
 	<link rel="stylesheet" href="css/estilo_soporte.css"/>
 	<link rel="stylesheet" href="css/estilo_pag_producto.css"/>
-	
+	<link rel="stylesheet" href="css/estilo_Loggin.css">
 
 	<!--ESTILOS SLIDER CSS-->
 
